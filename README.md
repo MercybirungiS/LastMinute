@@ -1,4 +1,4 @@
-# LastMinute.
+# LastMinute App.
 This  application last minute is an online booking platform for emergency ambulance services.  We ensure patient is transported to the nearest well equipped hospital available. At the earliest.  Our application bridges the gap between Patient, ambulance driver, emergency medical technician and the hospital.
 ## Last Minute Prototype (Patient):
 
